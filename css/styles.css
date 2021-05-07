@@ -345,7 +345,7 @@ nav a:hover::before {
 .explore-link-icon {
     flex: 0 0 4rem;
     padding-left: 0.5rem;
-    font-size: 1.5erm;
+    font-size: 1.5rem;
 }
 
 .ex-p {font-size: 0.875rem;}
